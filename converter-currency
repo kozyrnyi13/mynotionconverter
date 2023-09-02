@@ -1,0 +1,7 @@
+<!--Currency Converter widget by FreeCurrencyRates.com -->
+
+<div id='gcw_mainFxSKAjBPk' class='gcw_mainFxSKAjBPk'></div>
+<a id='gcw_siteFxSKAjBPk' href='https://freecurrencyrates.com/ru/'>FreeCurrencyRates.com</a>
+<script>function reloadFxSKAjBPk(){ var sc = document.getElementById('scFxSKAjBPk');if (sc) sc.parentNode.removeChild(sc);sc = document.createElement('script');sc.type = 'text/javascript';sc.charset = 'UTF-8';sc.async = true;sc.id='scFxSKAjBPk';sc.src = 'https://freecurrencyrates.com/ru/widget-vertical?iso=USD-EUR-GBP-JPY-CNY-MDL&df=1&p=FxSKAjBPk&v=fits&source=fcr&width=245&width_title=0&firstrowvalue=1&thm=666666,000000,333333,333333,FFFFFF,666666,555555,ffffff,ffffff&title=%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B5%D1%80%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82&tzo=-180';var div = document.getElementById('gcw_mainFxSKAjBPk');div.parentNode.insertBefore(sc, div);} reloadFxSKAjBPk(); </script>
+<!-- put custom styles here: .gcw_mainFxSKAjBPk{}, .gcw_headerFxSKAjBPk{}, .gcw_ratesFxSKAjBPk{}, .gcw_sourceFxSKAjBPk{} -->
+<!--End of Currency Converter widget by FreeCurrencyRates.com -->
